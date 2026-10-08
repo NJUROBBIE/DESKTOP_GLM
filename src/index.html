@@ -3,16 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; style-src 'self'; script-src 'self'" />
     <title>GLM 桌宠</title>
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
     <main id="pet-shell" aria-label="GLM 桌宠">
-      <div id="status-bubble" aria-live="polite">今天也要加油！</div>
       <button id="pet-button" title="左键拖动，右键打开菜单" aria-label="GLM 桌宠">
         <img id="pet-image" draggable="false" alt="像素风 GLM 桌宠" />
       </button>
-      <div id="pet-shadow" aria-hidden="true"></div>
     </main>
     <script src="./renderer.js"></script>
   </body>

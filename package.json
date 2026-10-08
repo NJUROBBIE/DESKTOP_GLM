@@ -8,7 +8,7 @@
   "private": true,
   "scripts": {
     "start": "electron .",
-    "extract-assets": "py -3 scripts/extract_sprites.py",
+    "test": "electron . --smoke-test",
     "dev": "electron ."
   },
   "devDependencies": {
