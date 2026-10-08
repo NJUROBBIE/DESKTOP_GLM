@@ -1,0 +1,17 @@
+{
+  "name": "desktop-glm",
+  "version": "1.0.0",
+  "description": "A tiny pixel-art desktop companion for the GLM project.",
+  "main": "src/main.js",
+  "author": "NJUROBBIE",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "extract-assets": "py -3 scripts/extract_sprites.py",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^38.2.0"
+  }
+}
