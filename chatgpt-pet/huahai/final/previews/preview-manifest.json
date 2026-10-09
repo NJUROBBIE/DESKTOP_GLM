@@ -1,0 +1,19 @@
+{
+  "atlas": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\final\\spritesheet-extended.png",
+  "source": "exact-final-encoded-atlas",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "look_frames": 16,
+  "all_states_duration_ms": 4000,
+  "idle_jump_idle": true,
+  "mp4": "all-states.mp4"
+}

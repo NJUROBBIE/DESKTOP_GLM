@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9671,
+          "bbox": [
+            58,
+            39,
+            131,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9700,
+          "bbox": [
+            58,
+            38,
+            132,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9669,
+          "bbox": [
+            58,
+            39,
+            131,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 49
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9617,
+          "bbox": [
+            58,
+            39,
+            131,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9631,
+          "bbox": [
+            55,
+            39,
+            129,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9636,
+          "bbox": [
+            58,
+            39,
+            131,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9357,
+          "bbox": [
+            53,
+            39,
+            143,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10433,
+          "bbox": [
+            51,
+            40,
+            145,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9903,
+          "bbox": [
+            55,
+            40,
+            144,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10435,
+          "bbox": [
+            51,
+            40,
+            146,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 66
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9318,
+          "bbox": [
+            53,
+            40,
+            143,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10411,
+          "bbox": [
+            51,
+            40,
+            146,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 62
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9922,
+          "bbox": [
+            54,
+            40,
+            144,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10496,
+          "bbox": [
+            51,
+            40,
+            145,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 76
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9266,
+          "bbox": [
+            49,
+            39,
+            136,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9723,
+          "bbox": [
+            46,
+            38,
+            134,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 85
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9465,
+          "bbox": [
+            49,
+            38,
+            134,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10073,
+          "bbox": [
+            46,
+            38,
+            134,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 77
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9284,
+          "bbox": [
+            49,
+            38,
+            134,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 75
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9820,
+          "bbox": [
+            46,
+            38,
+            134,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9550,
+          "bbox": [
+            49,
+            38,
+            135,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10034,
+          "bbox": [
+            46,
+            39,
+            134,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 82
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9910,
+          "bbox": [
+            56,
+            40,
+            132,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10077,
+          "bbox": [
+            54,
+            38,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10085,
+          "bbox": [
+            51,
+            38,
+            131,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9711,
+          "bbox": [
+            57,
+            38,
+            132,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 51
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9380,
+          "bbox": [
+            54,
+            61,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10283,
+          "bbox": [
+            47,
+            26,
+            144,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10752,
+          "bbox": [
+            41,
+            5,
+            150,
+            162
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9763,
+          "bbox": [
+            49,
+            28,
+            142,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10533,
+          "bbox": [
+            54,
+            38,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9876,
+          "bbox": [
+            57,
+            38,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9854,
+          "bbox": [
+            58,
+            38,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 57
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9536,
+          "bbox": [
+            57,
+            42,
+            136,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 51
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9294,
+          "bbox": [
+            57,
+            44,
+            137,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9574,
+          "bbox": [
+            58,
+            43,
+            140,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9508,
+          "bbox": [
+            58,
+            44,
+            140,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9540,
+          "bbox": [
+            59,
+            44,
+            141,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9811,
+          "bbox": [
+            57,
+            38,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9754,
+          "bbox": [
+            52,
+            39,
+            132,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9829,
+          "bbox": [
+            52,
+            39,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9963,
+          "bbox": [
+            51,
+            38,
+            131,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 43
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9864,
+          "bbox": [
+            52,
+            39,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9806,
+          "bbox": [
+            51,
+            38,
+            131,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9805,
+          "bbox": [
+            54,
+            39,
+            137,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9677,
+          "bbox": [
+            54,
+            40,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 14
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9700,
+          "bbox": [
+            52,
+            40,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 27
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9710,
+          "bbox": [
+            52,
+            39,
+            132,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9797,
+          "bbox": [
+            54,
+            39,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9744,
+          "bbox": [
+            55,
+            40,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9578,
+          "bbox": [
+            56,
+            40,
+            132,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 14
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9295,
+          "bbox": [
+            57,
+            40,
+            132,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9279,
+          "bbox": [
+            59,
+            44,
+            145,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9204,
+          "bbox": [
+            59,
+            46,
+            146,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9252,
+          "bbox": [
+            59,
+            44,
+            144,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9312,
+          "bbox": [
+            55,
+            44,
+            133,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9259,
+          "bbox": [
+            57,
+            40,
+            132,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        }
+      ]
+    }
+  ]
+}

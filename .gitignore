@@ -2,5 +2,8 @@ node_modules/
 dist/
 outputs/
 __pycache__/
+.pet-runtime/
+chatgpt-pet/library-bundles/
+chatgpt-pet/library-record.json
 *.log
 .DS_Store

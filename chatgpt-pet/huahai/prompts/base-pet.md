@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet 花海.
+
+Pet identity: Preserve original boy: black cap with tiny beige abstract mark, shaggy black hair, peach skin, olive green T-shirt, black backpack with two straps, loose black trousers, dark sneakers with beige soles. Front-facing canonical neutral arms down, both eyes open. NO suitcase, no drink, no chair, no new props. Consistent chunky pixel art and same face. Idle six frames contain three calm motifs: breathing, blinking, small head tilt; not waving or working. Active-work running means chin-rest thinking and small finger tap, feet anchored. Waiting palm-up asking, review forward lean and focused eyes, failed low head hand at forehead..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `pixel`: Pixel-art-adjacent digital mascot with a chunky silhouette, simple dark outline, limited palette, flat cel shading, and visible stepped edges.
+
+
+Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.

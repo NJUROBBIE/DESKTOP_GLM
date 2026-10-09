@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: the nose and exposed facial profile project toward screen-left, with the visible ear behind them on screen-right. B: the nose and facial profile project toward screen-right, with the visible ear behind them on screen-left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the visible eye and nose face screen-right, ahead of the ear on the left side of the head. B: the nose projects screen-left and the visible ear sits behind the cheek on screen-right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: the nose forms the left facial outline and the visible ear lies to the right of the eye. B: the nose forms the right facial outline and the visible ear lies to the left of the eye."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: the eye and projecting nose are on the screen-left side of the exposed cheek, with the ear on screen-right. B: the eye and nose are directed screen-right, ahead of the visible left-side ear."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the nose and forward cheek are displaced screen-right of the visible ear, and the eyes follow that facial turn. B: the nose and forward cheek extend screen-left of the visible right-side ear."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: despite the downward pitch, the visible ear is on screen-left and the nose and face extend screen-right. B: the ear is on screen-right and the eye, nose, and forward cheek extend screen-left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "ambiguous",
+      "reason": "A: beneath the lowered head, the visible right-side ear is behind a cheek and nose that extend screen-left. B: both eyes are exposed around a nearly centered nose and chin; the facial landmarks appear close to frontal and do not establish a reliable left or right turn."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A: the eyes look upward, the nose is raised, and the underside of the chin is exposed above the neck. B: the head is bowed, the eyes are obscured, and only a narrow lower face remains visible just above the collar."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A: the eye and nose angle upward, with a raised chin and visible neck beneath the jaw. B: the eyes sit beneath the lowered brow, and the nose and chin point toward the chest in a visibly bowed face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A: the nose and eye line rise above the visible ear and the chin is lifted away from the collar. B: the eyes and nose angle toward the lower facial outline, with the chin tucked close to the collar."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A: the visible eye is lowered beneath the brow and the nose descends toward a tucked chin near the collar. B: the eye and nose point upward from the ear, and the jaw is lifted with the neck visible underneath."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A: the eyes are partly covered by the lowered brow, and the nose and chin hang toward the chest. B: the nose and eyes face upward, with the chin raised and the underside of the jaw visible."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A: the eye and nose lie low relative to the visible ear, and the chin is tucked toward the shirt. B: the eye and projecting nose angle upward, while the chin is lifted and the neck is exposed below the jaw."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A: the eye is directed downward beneath the brow, the nose is low relative to the ear, and the chin is tucked. B: the visible eye and nose sit above the ear level, and the lifted jaw exposes the neck beneath the chin, supporting a slight upward pitch."
+    }
+  ]
+}

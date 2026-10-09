@@ -1,0 +1,44 @@
+{
+  "method": "bundled normalize_cell_to_geometry, one scale per row",
+  "target_height": 162,
+  "target_bottom": 202,
+  "rows": [
+    {
+      "state": "idle",
+      "scale": 0.826530612244898
+    },
+    {
+      "state": "running-right",
+      "scale": 0.826530612244898
+    },
+    {
+      "state": "running-left",
+      "scale": 0.826530612244898
+    },
+    {
+      "state": "waving",
+      "scale": 0.826530612244898
+    },
+    {
+      "state": "jumping",
+      "scale": 1,
+      "airborne_offsets_preserved": true
+    },
+    {
+      "state": "failed",
+      "scale": 0.8307692307692308
+    },
+    {
+      "state": "waiting",
+      "scale": 0.826530612244898
+    },
+    {
+      "state": "running",
+      "scale": 0.826530612244898
+    },
+    {
+      "state": "review",
+      "scale": 0.826530612244898
+    }
+  ]
+}

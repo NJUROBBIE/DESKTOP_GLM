@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13336,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 131
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14917,
+          "bbox": [
+            38,
+            6,
+            153,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 164
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14177,
+          "bbox": [
+            41,
+            5,
+            149,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14909,
+          "bbox": [
+            38,
+            5,
+            153,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 135
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13300,
+          "bbox": [
+            41,
+            5,
+            150,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 153
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14894,
+          "bbox": [
+            38,
+            5,
+            153,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14172,
+          "bbox": [
+            41,
+            6,
+            150,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 149
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\qa\\rows\\running-right\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15044,
+          "bbox": [
+            38,
+            6,
+            152,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ok": true,
+  "atlas": "C:\\Users\\15156\\OneDrive\\Documents\\Playground\\DESKTOP_GLM\\chatgpt-pet\\huahai\\final\\spritesheet-extended.png",
+  "encoded_bytes": 1777363,
+  "sha256": "d00fb816d37c4d78d9eddcf11fd5cc4066463b7be1f2671782e9807064b20c57",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      180,
+      159,
+      179,
+      202
+    ],
+    "airborne_lift_pixels": 43,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.0,
+    "look_centers_x": [
+      94.5,
+      92.5,
+      92.5,
+      93.0,
+      96.0,
+      98.0,
+      99.0,
+      97.0,
+      93.5,
+      91.5,
+      91.0,
+      90.0,
+      91.0,
+      94.0,
+      95.5,
+      96.5
+    ],
+    "look_widths": [
+      73,
+      75,
+      75,
+      74,
+      76,
+      80,
+      82,
+      78,
+      71,
+      75,
+      78,
+      78,
+      78,
+      76,
+      75,
+      77
+    ],
+    "maximum_center_drift_pixels": 5.0,
+    "maximum_width_ratio": 1.1549295774647887
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning"
+  ]
+}

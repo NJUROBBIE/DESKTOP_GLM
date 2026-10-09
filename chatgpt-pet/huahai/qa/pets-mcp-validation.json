@@ -1,0 +1,16 @@
+{
+  "file": "final/spritesheet-extended.png",
+  "sha256": "d00fb816d37c4d78d9eddcf11fd5cc4066463b7be1f2671782e9807064b20c57",
+  "result": {
+    "valid": true,
+    "file_size_bytes": 1777363,
+    "mime_type": "image/png",
+    "width": 1536,
+    "height": 2288,
+    "sprite_version": 2,
+    "cell_width": 192,
+    "cell_height": 208,
+    "frames_per_row": [6,8,8,4,5,8,6,6,6,8,8],
+    "errors": []
+  }
+}

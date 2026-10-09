@@ -1,0 +1,20 @@
+{
+  "pet_id": "pet_6ac8837b3ad8819191c216d6937832ce",
+  "name": "花海",
+  "description": "黑帽绿衣的像素旅伴，陪你思考、等待与完成任务。",
+  "is_custom": true,
+  "is_active_at_verification": true,
+  "active_pet_id": "pet_6ac8837b3ad8819191c216d6937832ce",
+  "verified_date": "2026-10-09",
+  "platform": "ChatGPT Work Pets",
+  "sprite_version": 2,
+  "file": "huahai/final/spritesheet-extended.png",
+  "sha256": "d00fb816d37c4d78d9eddcf11fd5cc4066463b7be1f2671782e9807064b20c57",
+  "encoded_bytes": 1777363,
+  "verification": [
+    "create_pet returned stable custom pet identity",
+    "select_pet returned matching active_pet_id",
+    "list_pets found same id, name, description, is_custom=true, is_active=true; cursor=null"
+  ],
+  "note": "This is an account-scoped installation record, not a portable login or import token. No upload-session ID or expiring spritesheet URL is persisted."
+}
